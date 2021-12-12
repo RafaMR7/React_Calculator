@@ -1,10 +1,15 @@
 # React Calculator Emulation:
 
- A simple calculator emulation using the React tools, like Components, states, CSS Styles and others.
+ A Calculator emulation using the React tools, like Components, states, CSS Styles and others.
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Project Overview:
+
+![Screenshot](Calc_01.png)
+![Screenshot](Calc_02.png)
 
 ## Available Scripts
 
